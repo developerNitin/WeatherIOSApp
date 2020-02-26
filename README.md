@@ -1,5 +1,5 @@
-# Climate_app
-Climate_app for iphone, which has ios 13 version or more.
+# weatherIOSApp
+weather app for iphone, which has ios 13 version or more.
 
 How it's look.
 
