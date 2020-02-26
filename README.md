@@ -1,4 +1,4 @@
-# weatherIOSApp
+# WeatherIOSApp
 weather app for iphone, which has ios 13 version or more.
 
 How it's look.
